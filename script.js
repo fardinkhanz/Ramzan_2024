@@ -1,6 +1,6 @@
 function downloadPDF() {
   // Replace 'path/to/your/pdf/file.pdf' with the actual path to your PDF file
-  const pdfUrl = 'fardinkhanz_github_io_Ramzan_timetable_website_2024 (1)-1';
+  const pdfUrl = 'fardinkhanz_github_io_Ramzan_timetable_website_2024 (1)-1.pdf';
   
   // Create an anchor element
   const a = document.createElement('a');
